@@ -1,0 +1,311 @@
+{
+  "settings": {
+    "storeName": "Mobile Trends",
+    "tagline": "Smartphones • Expert Repairs • Premium Accessories",
+    "phone": "093941 11121",
+    "alternatePhone": "0866-2438899",
+    "email": "kingssathish@gmail.com",
+    "address": "21-9-3A, Main Rd, Beside SBI Bank, Pasupu Thota, Madhura Nagar, Vijayawada, Andhra Pradesh 520011",
+    "landmark": "Beside State Bank of India (SBI) Main Road Branch, Pasupu Thota",
+    "city": "Vijayawada",
+    "pincode": "520011",
+    "rating": 4.2,
+    "reviewCount": 128,
+    "googleRating": 3.3,
+    "googleReviewCount": 4,
+    "establishedYear": 2013,
+    "whatsappNumber": "+919394111121",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=16.52698,80.64532(Mobile%20Trends%20-%20Madhura%20Nagar,%20Vijayawada)&t=&z=18&ie=UTF8&iwloc=B&output=embed",
+    "hours": {
+      "weekdays": "9:30 AM - 9:30 PM",
+      "sunday": "10:00 AM - 8:00 PM"
+    },
+    "announcement": "🔥 Festive Offer: Get flat 15% OFF on Tempered Glass & Premium Cases with any screen replacement!"
+  },
+  "admin": {
+    "username": "admin@mobiletrends.com",
+    "password": "admin123",
+    "name": "Store Manager"
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Screen & Display Replacement",
+      "category": "Hardware",
+      "priceRange": "₹1,199 - ₹7,999",
+      "duration": "45 Mins",
+      "warranty": "6 Months Warranty",
+      "description": "Original OLED, AMOLED & High-Grade LCD replacements for Apple, Samsung, OnePlus, Xiaomi, Vivo, Oppo & Realme. Includes free tempered glass install.",
+      "icon": "📱",
+      "featured": true
+    },
+    {
+      "id": "srv-2",
+      "title": "Battery Replacement & Health Tuneup",
+      "category": "Hardware",
+      "priceRange": "₹699 - ₹2,499",
+      "duration": "30 Mins",
+      "warranty": "6 Months Warranty",
+      "description": "High-density OEM battery replacements for draining batteries, sudden shutdowns, or swollen battery safety hazards with full power cycle testing.",
+      "icon": "🔋",
+      "featured": true
+    },
+    {
+      "id": "srv-3",
+      "title": "Water & Liquid Damage Revival",
+      "category": "Motherboard",
+      "priceRange": "₹799 - ₹3,499",
+      "duration": "2 - 4 Hours",
+      "warranty": "3 Months Warranty",
+      "description": "Ultrasonic PCB cleaning, anti-corrosion chemical bath, short-circuit diagnostics, and power rail restoration with a 92% recovery success rate.",
+      "icon": "💧",
+      "featured": true
+    },
+    {
+      "id": "srv-4",
+      "title": "Chip-Level Motherboard Repair",
+      "category": "Motherboard",
+      "priceRange": "₹1,499 - ₹4,999",
+      "duration": "Same Day",
+      "warranty": "3 Months Warranty",
+      "description": "BGA IC reballing, power IC, audio codec, baseband repair, and CPU/EMMC memory chip troubleshooting using precision micro-soldering stations.",
+      "icon": "🔬",
+      "featured": false
+    },
+    {
+      "id": "srv-5",
+      "title": "Charging Port & Mic / Speaker Fix",
+      "category": "Components",
+      "priceRange": "₹399 - ₹1,299",
+      "duration": "25 Mins",
+      "warranty": "3 Months Warranty",
+      "description": "Loose charging port fix, Type-C/Lightning connector swaps, muffled ear-speaker cleaning, and microphone replacements for crystal-clear calls.",
+      "icon": "⚡",
+      "featured": false
+    },
+    {
+      "id": "srv-6",
+      "title": "Software Flashing & FRP Data Recovery",
+      "category": "Software",
+      "priceRange": "₹499 - ₹1,499",
+      "duration": "1 Hour",
+      "warranty": "Software Guarantee",
+      "description": "Bootloop fix, bricked phone recovery, stuck on logo, official stock ROM flashing, FRP lock resolution, and safe WhatsApp/photo data extraction.",
+      "icon": "💻",
+      "featured": false
+    },
+    {
+      "id": "srv-7",
+      "title": "Landline & Office Telecom Solutions",
+      "category": "Telecom",
+      "priceRange": "₹499 - ₹3,999",
+      "duration": "Instant / 1 Day",
+      "warranty": "1 Year Manufacturer",
+      "description": "Sales, cabling, and repair of corded, cordless DECT phones, intercom systems, and business telephone sets from Panasonic, Beetel, and Gigaset.",
+      "icon": "☎️",
+      "featured": true
+    },
+    {
+      "id": "srv-8",
+      "title": "Old Phone Buyback & Exchange",
+      "category": "Exchange",
+      "priceRange": "Instant Valuation",
+      "duration": "10 Mins",
+      "warranty": "Instant Cash",
+      "description": "Get the best market valuation for your old smartphones. Instant cash or upgrade to brand-new or certified refurbished models on the spot.",
+      "icon": "🔄",
+      "featured": false
+    }
+  ],
+  "inventory": [
+    {
+      "id": "inv-1",
+      "name": "65W GaN Dual-Port Fast Charger",
+      "category": "Chargers",
+      "price": 1499,
+      "originalPrice": 2299,
+      "stock": 18,
+      "tag": "Bestseller",
+      "specs": "PD 3.0 + QC 4.0, Type-C + USB-A, Over-voltage protection",
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-2",
+      "name": "9D Curved Edge Edge-to-Edge Tempered Glass",
+      "category": "Protection",
+      "price": 299,
+      "originalPrice": 599,
+      "stock": 120,
+      "tag": "Most Popular",
+      "specs": "9H Hardness, Oleophobic coating, Anti-fingerprint, Zero bubble fit",
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-3",
+      "name": "Military Grade Shockproof Armor Case",
+      "category": "Cases",
+      "price": 449,
+      "originalPrice": 899,
+      "stock": 45,
+      "tag": "Heavy Duty",
+      "specs": "Air-cushion corner tech, 10ft drop tested, built-in kickstand",
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-4",
+      "name": "ANC Wireless Stereo Bluetooth Earbuds",
+      "category": "Audio",
+      "price": 1899,
+      "originalPrice": 3499,
+      "stock": 14,
+      "tag": "Deep Bass",
+      "specs": "36-hr battery life, Active Noise Cancellation, IPX5 Water Resistant",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-5",
+      "name": "20,000 mAh 22.5W Fast Power Bank",
+      "category": "Power Banks",
+      "price": 1699,
+      "originalPrice": 2799,
+      "stock": 22,
+      "tag": "Fast Charging",
+      "specs": "Triple output ports, LED battery percentage screen, Aircraft approved",
+      "image": "https://images.unsplash.com/photo-1609592426868-6e5461c28c89?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-6",
+      "name": "Panasonic KX-TG3611SX Cordless Phone",
+      "category": "Landline",
+      "price": 2850,
+      "originalPrice": 3600,
+      "stock": 8,
+      "tag": "Telecom",
+      "specs": "2.4GHz FHSS Technology, Backlit LCD, 50 Name Phonebook, Night Mode",
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-7",
+      "name": "Zinc Alloy Braided 100W Type-C Cable",
+      "category": "Cables",
+      "price": 349,
+      "originalPrice": 699,
+      "stock": 60,
+      "tag": "Durable",
+      "specs": "E-marker smart chip, 480Mbps data transfer, 15,000+ bend lifespan",
+      "image": "https://images.unsplash.com/photo-1609081219090-a6d8173087ec?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "inv-8",
+      "name": "MagSafe Magnetic 15W Car Dashboard Mount",
+      "category": "Car Accessories",
+      "price": 999,
+      "originalPrice": 1799,
+      "stock": 16,
+      "tag": "Auto",
+      "specs": "360-degree ball joint, N52 strong rare-earth magnets, fast Qi wireless",
+      "image": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=600&auto=format&fit=crop&q=80"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "MT-8492",
+      "customerName": "Suresh Kumar",
+      "phone": "9848022341",
+      "deviceModel": "iPhone 13 (Midnight Black)",
+      "serviceType": "Screen & Display Replacement",
+      "issueDescription": "Screen shattered after dropping on road near Madhura Nagar circle.",
+      "estimatedCost": "₹4,200",
+      "status": "Ready for Pickup",
+      "technicianNotes": "OLED panel replaced and touch calibrated. Free 9D tempered glass applied.",
+      "createdAt": "2026-10-22T10:15:00.000Z",
+      "updatedAt": "2026-10-22T14:30:00.000Z"
+    },
+    {
+      "id": "MT-8493",
+      "customerName": "Priyanka Varma",
+      "phone": "9491033892",
+      "deviceModel": "Samsung Galaxy S22 Ultra",
+      "serviceType": "Battery Replacement & Health Tuneup",
+      "issueDescription": "Battery drains within 4 hours and phone heats up while charging.",
+      "estimatedCost": "₹1,850",
+      "status": "In Repair",
+      "technicianNotes": "Battery health tested at 68%. New OEM 5000mAh battery being installed.",
+      "createdAt": "2026-10-22T11:45:00.000Z",
+      "updatedAt": "2026-10-22T15:10:00.000Z"
+    },
+    {
+      "id": "MT-8494",
+      "customerName": "K. Venkatesh",
+      "phone": "8978124560",
+      "deviceModel": "OnePlus 9 Pro",
+      "serviceType": "Water & Liquid Damage Revival",
+      "issueDescription": "Fell into water bucket, phone not turning on.",
+      "estimatedCost": "₹2,200",
+      "status": "Diagnosing",
+      "technicianNotes": "Completed ultrasonic PCB cleaning. Checking display IC and capacitors.",
+      "createdAt": "2026-10-22T13:20:00.000Z",
+      "updatedAt": "2026-10-22T13:25:00.000Z"
+    },
+    {
+      "id": "MT-8495",
+      "customerName": "Ramesh Babu",
+      "phone": "9989345210",
+      "deviceModel": "Redmi Note 12 5G",
+      "serviceType": "Charging Port & Mic / Speaker Fix",
+      "issueDescription": "Type-C cable keeps falling out and slow charging.",
+      "estimatedCost": "₹550",
+      "status": "Delivered",
+      "technicianNotes": "Replaced charging sub-board connector. Tested Turbo charge 33W successfully.",
+      "createdAt": "2026-10-21T16:00:00.000Z",
+      "updatedAt": "2026-10-21T17:15:00.000Z"
+    },
+    {
+      "id": "MT-5577",
+      "customerName": "raju",
+      "phone": "7894561230",
+      "deviceModel": "Samsung m14",
+      "serviceType": "Screen & Display Replacement",
+      "issueDescription": "General servicing required",
+      "estimatedCost": "To Be Inspected",
+      "status": "Received",
+      "technicianNotes": "Device check-in booked online. Awaiting physical device at Madhura Nagar store.",
+      "createdAt": "2026-10-22T15:54:47.615Z",
+      "updatedAt": "2026-10-22T15:54:47.615Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "author": "V. Sai Krishna",
+      "rating": 5,
+      "source": "Justdial Verified User",
+      "date": "2 weeks ago",
+      "comment": "Best mobile shop in Madhura Nagar! My Vivo display was repaired within 40 minutes at half the service center quote. Right beside SBI Bank on the main road, very easy to locate."
+    },
+    {
+      "id": "rev-2",
+      "author": "M. Durga Rao",
+      "rating": 5,
+      "source": "Google Review",
+      "date": "1 month ago",
+      "comment": "Mobile Trends has been our family's trusted phone store for years. Bought a Panasonic cordless phone for our office and got multiple iPhones serviced here. Genuine guys and honest service."
+    },
+    {
+      "id": "rev-3",
+      "author": "Anjali Reddy",
+      "rating": 4,
+      "source": "Justdial Verified User",
+      "date": "3 weeks ago",
+      "comment": "Good collection of phone back covers and high-speed chargers. Staff is very courteous and polite. Got tempered glass with perfect installation."
+    },
+    {
+      "id": "rev-4",
+      "author": "G. Satyanarayana",
+      "rating": 5,
+      "source": "Local Customer",
+      "date": "Recently",
+      "comment": "Water damaged Samsung revived completely without data loss. Suresh and the technician team explained the issue clearly. Reasonable repair charges in Vijayawada."
+    }
+  ]
+}
